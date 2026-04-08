@@ -132,8 +132,3 @@ O notebook possui `8` blocos distribuídos em `103` células (`70` markdown + `3
 - Documentação do scikit-learn: <https://scikit-learn.org/stable/>
 - Documentação do Jupyter Notebook: <https://jupyter-notebook.readthedocs.io/en/stable/>
 
-## 👤 Autor
-
-- **Nome:** Diogo Reis Beltrão Lessa
-- **Matrícula:** `4052025002548`
-- **Curso:** Pós-Graduação em Ciência de Dados e Analytics - PUC-Rio
